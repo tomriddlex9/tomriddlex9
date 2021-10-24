@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "100%" src="https://raw.githubusercontent.com/tomriddlex9/tomriddlereadme/main/ezgif.com-gif-maker(12).jpg" alt="cover" />
+<img width="70%" height = "70%" src="https://raw.githubusercontent.com/tomriddlex9/tomriddlereadme/main/ezgif.com-gif-maker(12).jpg" alt="cover" />
 </div>
 <br><br><br>
 

@@ -3,7 +3,7 @@
 <p align='center'>
 </p>
 
-<div size='20px'> I am pursuing my career as a software developer intern after completing my undergraduation in the year 2021. I am leaned towards the field of cybersecurity and Artificial Intelligence. I am a programmer on some days and a hacker on most.
+<div size='20px'> I am pursuing my Masters in Computer Science. I am leaned towards the field of cybersecurity and Artificial Intelligence. I am a programmer on some days and a hacker on most.
 
 </div>
 <br><br>

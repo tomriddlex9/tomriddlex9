@@ -1,33 +1,24 @@
-<div align="center">
-<img width="100%" height = "100%" src="https://raw.githubusercontent.com/tomriddlex9/tomriddlereadme/main/ezgif.com-gif-maker(12).jpg" alt="cover" />
-</div>
-<br><br><br>
 
 <h1 align='center'> Hi , I am Siddhant Siwach <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=tomriddlex9)
-[![Github](https://img.shields.io/github/followers/tomriddlex9?label=Follow&style=social)](https://github.com/tomriddlex9)
-
 <div size='20px'> I am pursuing my career as a software developer intern after completing my undergraduation in the year 2021. I am leaned towards the field of cybersecurity and Artificial Intelligence. I am a programmer on some days and a hacker on most.
 
 </div>
 <br><br>
+### Yo, welcome! 👾  
 
-<h2> About Me </h2>
+I’m **Tomriddlex9** — a developer, hacker, and reverse engineer with a passion for breaking, building, and everything in between.  
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/tomriddlex9/tomriddlereadme/main/ezgif.com-gif-maker(14).jpg" />
+💻 **What I’m Into**:  
+- 💥 Hacking & Reverse Engineering  
+- 🌐 Web Dev & 🛠 Mobile Dev  
+- 🎨 Crafting beautiful mobile experiences  
+- 🤖 Automating, innovating, and experimenting  
 
+⚡ Always pushing boundaries, exploring tech, and dropping clean, functional code. Let’s collaborate or geek out over something cool.  
 
-- 🔭 I’m currently working on Advanced Data Structures and Blockchain Projects on Solana and Cardano.
-
-- 🌱 I’m currently learning Rust, Blockchain , JS and Mobile App Development
-
-- 👯 I’m looking to collaborate on Projects,Startup Ideas , Design Projects & Tech Articles
-
-- 💬 Talk to me about C++,Rust,Data Structures and OOPS, Linux , Blockchain and Crypto, Freelancing Opportunites & Open Source Projects
 <br><br><br>
 <br><br><br>
 <h2> Skills 
@@ -56,18 +47,3 @@
 <br>
 <br>
   
-![Siddhant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tomriddlex9&theme=tokyonight)
-
-| ![Siddhant's github stats](https://github-readme-stats.vercel.app/api?username=tomriddlex9&show_icons=true&theme=tokyonight) | ![Siddhant GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomriddlex9&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomriddlex9&theme=tokyonight) | <br>![Github Stars](https://github-readme-stats.vercel.app/api?username=tomriddlex9&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
-
-
------
-
-Last Edited on: 24/10/2021
